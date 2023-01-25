@@ -4,11 +4,9 @@
 - 🔭 Hoje trabalho com front-end
 - 🌱 Estudando JavaScript
 
-<div style="display: inline_block"><br>
- 
-</div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LaVollpe)](https://github.com/anuraghazra/github-readme-stats)
   
-  ##
+  
  
 
 
